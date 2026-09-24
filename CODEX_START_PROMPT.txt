@@ -1,0 +1,17 @@
+Read `CODEX_PROJECT_BRIEF.md`, `IMPLEMENTATION_PLAN.md`, and `PRD_SOURCE.md`.
+
+Build the South Africa Slideshow v1 foundation in this repository.
+
+First inspect the existing repository and preserve unrelated work. Then implement the curator and slideshow viewer, sample metadata, documentation, and GitHub Pages-compatible static structure described in the documents.
+
+Do not pretend that Google Photos shared-album URLs are a supported browser API. Verify the integration approach; if direct access is not reliable, keep Google Photos as an import/source concern and make the core viewer work from local/static assets and metadata.
+
+Do not add real photos, private data, or copyrighted music to the repository.
+
+After implementation:
+- run the available tests/lint/build checks
+- test the static files as far as the environment permits
+- fix errors
+- summarize files changed
+- list any manual setup still required
+- do not push or change remote settings unless explicitly requested.
